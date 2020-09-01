@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>flask on Website of Shruthi Rao</title>
-    <link>shruthi019.github.io/tags/flask/</link>
+    <link>https://shruthi019.github.io/tags/flask/</link>
     <description>Recent content in flask on Website of Shruthi Rao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="shruthi019.github.io/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shruthi019.github.io/tags/flask/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MaskifAI</title>
-      <link>shruthi019.github.io/projects/maskifai/</link>
+      <link>https://shruthi019.github.io/projects/maskifai/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>shruthi019.github.io/projects/maskifai/</guid>
+      <guid>https://shruthi019.github.io/projects/maskifai/</guid>
       <description>MaskifAI is a mask detection web app which can be used by an organization to ensure that their employees wear a mask while entering the workspace.</description>
     </item>
     
     <item>
       <title>TeachUs</title>
-      <link>shruthi019.github.io/projects/teachus/</link>
+      <link>https://shruthi019.github.io/projects/teachus/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>shruthi019.github.io/projects/teachus/</guid>
+      <guid>https://shruthi019.github.io/projects/teachus/</guid>
       <description>TeachUs is a community by teachers, for teachers.
 The onset of the COVID-19 pandemic has forced both students and teachers alike to rely on online resources to learn and teach.</description>
     </item>

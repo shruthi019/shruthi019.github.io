@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dialogflow on Website of Shruthi Rao</title>
-    <link>shruthi019.github.io/tags/dialogflow/</link>
+    <link>https://shruthi019.github.io/tags/dialogflow/</link>
     <description>Recent content in dialogflow on Website of Shruthi Rao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="shruthi019.github.io/tags/dialogflow/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shruthi019.github.io/tags/dialogflow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TeachUs</title>
-      <link>shruthi019.github.io/projects/teachus/</link>
+      <link>https://shruthi019.github.io/projects/teachus/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>shruthi019.github.io/projects/teachus/</guid>
+      <guid>https://shruthi019.github.io/projects/teachus/</guid>
       <description>TeachUs is a community by teachers, for teachers.
 The onset of the COVID-19 pandemic has forced both students and teachers alike to rely on online resources to learn and teach.</description>
     </item>
