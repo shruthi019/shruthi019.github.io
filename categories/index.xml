@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Website of Shruthi Rao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shruthi019.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>projects</title>
+      <link>https://shruthi019.github.io/categories/projects/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/categories/projects/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>lean-in</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://shruthi019.github.io/categories/lean-in/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>https://shruthi019.github.io/categories/projects/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://shruthi019.github.io/categories/projects/</guid>
       <description></description>
     </item>
     

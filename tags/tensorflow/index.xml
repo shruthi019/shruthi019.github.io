@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tensorflow on Website of Shruthi Rao</title>
+    <link>https://shruthi019.github.io/tags/tensorflow/</link>
+    <description>Recent content in tensorflow on Website of Shruthi Rao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shruthi019.github.io/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shiwu</title>
+      <link>https://shruthi019.github.io/projects/shiwu/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/projects/shiwu/</guid>
+      <description>Shiwu is a soil type detector and crop suggester that aims to promote sustainable agriculture.</description>
+    </item>
+    
+  </channel>
+</rss>

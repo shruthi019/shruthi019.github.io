@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codestrup on Website of Shruthi Rao</title>
+    <link>https://shruthi019.github.io/tags/codestrup/</link>
+    <description>Recent content in codestrup on Website of Shruthi Rao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shruthi019.github.io/tags/codestrup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CodeStrup</title>
+      <link>https://shruthi019.github.io/projects/codestrup/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/projects/codestrup/</guid>
+      <description>CodeStrup is a web app which aims to teach users basic data structures.</description>
+    </item>
+    
+  </channel>
+</rss>

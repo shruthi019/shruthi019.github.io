@@ -6,10 +6,91 @@
     <description>Recent content in Tags on Website of Shruthi Rao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shruthi019.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>flask</title>
+      <link>https://shruthi019.github.io/tags/flask/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keras</title>
+      <link>https://shruthi019.github.io/tags/keras/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://shruthi019.github.io/tags/projects/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://shruthi019.github.io/tags/python/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiwu</title>
+      <link>https://shruthi019.github.io/tags/shiwu/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/tags/shiwu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>https://shruthi019.github.io/tags/tensorflow/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap</title>
+      <link>https://shruthi019.github.io/tags/bootstrap/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codestrup</title>
+      <link>https://shruthi019.github.io/tags/codestrup/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/tags/codestrup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sql</title>
+      <link>https://shruthi019.github.io/tags/sql/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shruthi019.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>lean-in</title>
@@ -48,24 +129,6 @@
     </item>
     
     <item>
-      <title>bootstrap</title>
-      <link>https://shruthi019.github.io/tags/bootstrap/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://shruthi019.github.io/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flask</title>
-      <link>https://shruthi019.github.io/tags/flask/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://shruthi019.github.io/tags/flask/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>maskifai</title>
       <link>https://shruthi019.github.io/tags/maskifai/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
@@ -80,24 +143,6 @@
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://shruthi019.github.io/tags/opencv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>https://shruthi019.github.io/tags/projects/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://shruthi019.github.io/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://shruthi019.github.io/tags/python/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://shruthi019.github.io/tags/python/</guid>
       <description></description>
     </item>
     
